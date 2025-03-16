@@ -51,6 +51,7 @@ int main() {
         scanf("%d", &bt[i]);
         rem_bt[i] = bt[i];
     }
+    
     printf("Enter the Time Quntum: ");
     scanf("%d", &quantum);
 
