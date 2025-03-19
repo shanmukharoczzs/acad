@@ -2,7 +2,7 @@
  *            Author : Shannu
  *            Topic: Pthreads
  *            Date   : 15 - March - 2025
- */
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
